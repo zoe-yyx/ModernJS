@@ -11,4 +11,6 @@
 
 ## Explanation
 
-分别为ipad版和电脑版
+MyModernjs为电脑端
+ipad为平板端
+
